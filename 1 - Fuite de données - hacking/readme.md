@@ -44,5 +44,8 @@ https://en.wikipedia.org/wiki/WikiLeaks
 
 Le scandale de Cambridge Analytica doit-il être considéré comme une fuite de données personnelles?
 
+## Ouverture 2: du piratage des données au piratage des algorithmes
 
+
+https://hellofuture.orange.com/en/cybersecurity-ai-attacks-and-hijacking/
 

@@ -13,6 +13,9 @@ Quels sont les risques? Les cas avérés? Les exploitations qui en sont faites? 
 
 Les assistants IA (Alexa, Google Assistant, ...) présentent-ils de nouveaux risques par rapport aux fuites de données personnelles
 
+Les nouveaux outils de programmation multiplient-ils les risques de fuite?
+
+Quelques pistes à regarder dans le domaine de la santé:  rançongiciels hospitaliers (CHU de Rouen 2019, Corbeil-Essonnes 2022, hôpital de Versailles), le cas 23andMe (fuite 2023 puis faillite 2025) -> que devient un patrimoine génétique quand l'entreprise est liquidée ?
 
 ## Combien valent nos données personnelles?
 

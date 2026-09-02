@@ -9,6 +9,8 @@ Quels sont les familles d'applications visées? Les avancées récentes, les per
 
 ## Interface Cerveau Machine
 
+Note: cette partie du sujet est en partie partagée avec le sujet précédent
+
 https://www.inserm.fr/dossier/interface-cerveau-machine-icm/
 https://www.kaggle.com/datasets/saurabhshahane/handwriting-bci
 
@@ -23,6 +25,7 @@ https://www.lemonde.fr/sciences/article/2018/05/21/un-tetraplegique-pilote-un-ex
 
 https://www.inrs.fr/risques/exosquelettes/ce-qu-il-faut-retenir.html
 
+https://www.lesnumeriques.com/exosquelette/hypershell-pro-x-p76425/test.html
 
 ## La place du smartphone
 

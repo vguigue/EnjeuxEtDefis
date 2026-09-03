@@ -29,14 +29,20 @@ Depuis 2010, les techniques ont complètement changé (et même à plusieurs rep
 
 L'importance du pré-entrainement et du transfert. Les systèmes modernes sont entrainés sur de très grandes bases de données pour extraire des caractéristiques générales puis raffinés sur des bases de données spécifiques pour des applications particulières.
 
-https://www.baeldung.com/cs/neural-network-pre-training
+- https://www.baeldung.com/cs/neural-network-pre-training
 
 
 La génération d'image est un gouffre en terme de ressources... Mais existe-t-il des applications *utiles*?
 Quel est le lien entre la tâche de segmentation et la génération d'image?
 
+- https://www.ibm.com/fr-fr/think/topics/image-segmentation
+
 
 ## Quels verrous pour l'IA embarquée?
+
+Quels sont les enjeux pour *embarquer* les modèles? Est ce que ça se réduit au véhicule autonome? 
+
+Y a-t-il des enjeux en santé? Le véhicule autonome est-il un enjeu de santé?
 
 https://www.technexion.com/resources/embedded-vision-vs-machine-vision-everything-you-need-to-know/
 
